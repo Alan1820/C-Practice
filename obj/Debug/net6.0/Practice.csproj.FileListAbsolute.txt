@@ -1,0 +1,15 @@
+D:\LY SEM VIII\Project\Practice\bin\Debug\net6.0\Practice.exe
+D:\LY SEM VIII\Project\Practice\bin\Debug\net6.0\Practice.deps.json
+D:\LY SEM VIII\Project\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+D:\LY SEM VIII\Project\Practice\bin\Debug\net6.0\Practice.dll
+D:\LY SEM VIII\Project\Practice\bin\Debug\net6.0\Practice.pdb
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.csproj.AssemblyReference.cache
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.cs
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.csproj.CoreCompileInputs.cache
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.dll
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\refint\Practice.dll
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.pdb
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+D:\LY SEM VIII\Project\Practice\obj\Debug\net6.0\ref\Practice.dll
